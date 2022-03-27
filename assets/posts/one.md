@@ -360,6 +360,5 @@ The project.component.html displays the repository "name" and "description" and 
 
 ```
 
-That's all for this post, in the next post I will go over how I added a blog out of static markdown files.
+That's all for this post, in the next post I will go over how I added a blog from static markdown files.
 
-.
